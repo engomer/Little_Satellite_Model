@@ -1,10 +1,15 @@
 # Little_Satellite_Model
 
 It is a little satellite project which consist of:
-  -Ground Station
-  -Satellite
-  -Remote Car
+  -Ground Station(node00)
+  -Satellite(node01)
+  -Remote Car(node02)
   
+ The sensors used in this project:
+  -Air quality sensor
+  -Pressure sensor
+  -Temperature Sensor
+ Nrf24l01 tranciever module used for communication.
  There is an interface designed on Java, processing tool which seems like:
  ![interface](https://user-images.githubusercontent.com/43203464/97483377-65ca9300-1968-11eb-9a10-9083771bb658.jpeg)
  
